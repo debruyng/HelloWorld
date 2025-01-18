@@ -1,2 +1,2 @@
-# HelloWorld 2025
+# HelloWorld
 My 1st GitHub project
