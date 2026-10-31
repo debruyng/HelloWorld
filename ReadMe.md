@@ -1,11 +1,12 @@
-# HelloWorld
+# Mijn project
 My 1st GitHub project
 
-
-# Mijn project
 ## Installatie
 
-Dit is **vet**, dit is *cursief* en dit is ~~doorgehaald~~.
+Dit is **vet**
+Dit is *cursief* 
+Dit is ~~doorgehaald~~.
+
 Gebruik `npm install` om te starten.
 
 > Een citaat of opmerking
@@ -32,16 +33,9 @@ Gebruik `npm install` om te starten.
 > [!WARNING]
 > Let op, dit kan misgaan.
 
-> [!CAUTION]
-> Dit kan schade veroorzaken.
-
+> [!CAUTION] > Dit kan schade veroorzaken.
 
 | Bestand   | Status | Grootte |
 |-----------|:------:|--------:|
 | README.md | klaar  |    2 KB |
 | LICENSE   | open   |    1 KB |
-
-
-Hoofdkleur: `#2a5bd7`
-Groen: `rgb(31, 138, 76)`
-Rood: `hsl(5, 62%, 49%)`
